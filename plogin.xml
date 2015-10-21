@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install version="1.5" type="plugin"  group="authentication">
+	<name>Authentication - Payroll Login</name>
+	<author>Patrick Mutwiri</author>
+	<creationDate>21st October 2015</creationDate>
+	<copyright>Copyright (C) 2015 GBC - All rights reserved.</copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<authorEmail>pmutwiri@gbc.co.ke</authorEmail>
+	<authorUrl>http://twitter.com/patricmutwiri</authorUrl>
+	<version>1.5.0</version>
+	<description>A user authentication through payroll</description>
+	<files>
+		<filename plugin="plogin">plogin.php</filename>
+	</files>
+	<params/>
+</install>
